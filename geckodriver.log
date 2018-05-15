@@ -1,0 +1,61 @@
+1516705875006	geckodriver	INFO	geckodriver 0.19.1
+1516705875011	geckodriver	INFO	Listening on 127.0.0.1:8981
+1516705878058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Mohd\\AppData\\Local\\Temp\\rust_mozprofile.ovFjZLsfQ3Ft"
+1516705881059	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Mohd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Mohd\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516705885428	Marionette	INFO	Listening on port 8989
+1516705885912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516705885985	Marionette	DEBUG	Register listener.js for window 4294967297
+1516705889400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516705890269	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516705890269	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516705891710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.99acres.com/property/loginpage.php"
+1516705893048	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.99acres.com/property/loginpage.php"
+1516705895398	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.99acres.com/property/loginpage.php"
+1516705896530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1516705896989	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.99acres.com/property/loginpage.php"
+1516705896992	Marionette	DEBUG	Received DOM event "unload" for "https://www.99acres.com/property/loginpage.php"
+1516705897188	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516705897188	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516705897189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516705897189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1516705897189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1516705897190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516705897732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.99acres.com/do/buyer/ShowBuyerForms/showFormNow?EDIT=Y"
+1516705898123	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.99acres.com/do/buyer/ShowBuyerForms/showFormNow?EDIT=Y"
+1516705901135	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.99acres.com/do/buyer/ShowBuyerForms/showFormNow?EDIT=Y"
+1516705901699	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.99acres.com/do/buyer/ShowBuyerForms/showFormNow?EDIT=Y"
+1516705901700	Marionette	DEBUG	Received DOM event "unload" for "https://www.99acres.com/do/buyer/ShowBuyerForms/showFormNow?EDIT=Y"
+1516705902991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1516705902991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1516705902992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516705902992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1516705902993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516705902993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1516705902994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1516705902994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1516705902995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516705902995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516705902996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1516705905009	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.99acres.com/rent-property-in-pune-ffid?orig_property_type=R&class=O&search_type=QS&pageid=QS&clsrc=owner_tab"
+1516705905540	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.99acres.com/rent-property-in-pune-ffid?orig_property_type=R&class=O&search_type=QS&pageid=QS&clsrc=owner_tab"
+1516705907935	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967394"
+1516705908076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516705913363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516705916734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967403"
+1516705916876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967405"
+1516705917732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516705927052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516705932299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+vrpaths.vrpath
+[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+G	Canceled page load listener because no navigation has been detected
+1516702485280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Mohd\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
